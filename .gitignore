@@ -9,13 +9,6 @@ public
 images
 videos
 
-static/images
-static/videos
-styles/fonts/tanek
-styles/fonts/tiempos
-src/styles/fonts/tanek
-src/styles/fonts/tiempos
-
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
