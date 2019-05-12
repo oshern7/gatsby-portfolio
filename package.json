@@ -10,7 +10,8 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "ci:before": "greenkeeper-lockfile-update",
-    "ci:after": "greenkeeper-lockfile-upload"
+    "ci:after": "greenkeeper-lockfile-upload",
+    "heroku-postbuild": "gatsby build"
   },
   "author": "fullstackdevs14",
   "license": "MIT",
