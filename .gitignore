@@ -6,8 +6,6 @@ coverage
 public
 .gatsby-context.js
 *.sublime-workspace
-images
-videos
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
